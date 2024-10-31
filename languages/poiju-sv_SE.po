@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Poiju\n"
+"POT-Creation-Date: 2018-08-21 09:42+0300\n"
+"PO-Revision-Date: 2018-08-21 09:44+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: poiju.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: include/PoiPostType.php:30
+msgid "Points of Interest"
+msgstr "Sevärdheter"
+
+#: include/PoiPostType.php:32
+msgid "Point of Interest"
+msgstr "Sevärdhet"
+
+#: include/PoiPostType.php:33
+msgid "Add New Point of Interest"
+msgstr "Lägg till sevärdhet"
+
+#: include/PoiPostType.php:34
+msgid "Edit Point of Interest"
+msgstr "Redigera sevärdhet"
+
+#: include/PoiPostType.php:51
+msgid "Information"
+msgstr "Information"
+
+#: include/SettingsPage.php:42
+msgid "Poiju settings"
+msgstr "Poiju-inställningar"
+
+#: include/SettingsPage.php:55
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Du har inte rättigheterna som behövs för att komma åt den här sidan."
+
+#: include/SettingsPage.php:83
+msgid "General settings"
+msgstr "Allmänna inställningar"
+
+#: include/SettingsPage.php:90
+msgid "Mapbox access token"
+msgstr "Mapbox access token"
+
+#: include/SettingsPage.php:98
+msgid "Map controls"
+msgstr "Kartkontroller"
+
+#: include/SettingsPage.php:106
+msgid "Map labels"
+msgstr "Karttexter"
+
+#: include/SettingsPage.php:119
+#, php-format
+msgid ""
+"To use the map, you need an account at <a href=\"%s\">Mapbox</a> and a "
+"token. An account can be created for free. See <a href=\"%s\">here</a> for "
+"more information."
+msgstr ""
+"För att använda kartan behöver du ett <a href=\"%s\">Mapbox</a>-konto och "
+"en token. Ett konto kan skapas gratis. Se <a href=\"%s\">här</a> för mera "
+"information."
+
+#: include/SettingsPage.php:129
+msgid "Show map controls"
+msgstr "Visa kartkontroller"
+
+#: include/SettingsPage.php:139
+msgid "Show point names on map"
+msgstr "Visa sevärdheters namn på kartan"
+
+#: templates/admin/meta_boxes.php:13
+msgid "Address:"
+msgstr "Adress:"
+
+#: templates/admin/meta_boxes.php:18
+msgid "Opening hours:"
+msgstr "Öppethållningstider:"
+
+#: templates/admin/meta_boxes.php:23
+msgid "Contact information:"
+msgstr "Kontaktuppgifter:"
+
+#: templates/admin/meta_boxes.php:28
+msgid "Links"
+msgstr "Länkar"
+
+#: templates/admin/meta_boxes.php:30
+msgid "www link:"
+msgstr "www-länk:"
+
+#: templates/admin/meta_boxes.php:37
+msgid "Facebook link:"
+msgstr "Facebook-länk:"
+
+#: templates/admin/meta_boxes.php:44
+msgid "Instagram link:"
+msgstr "Instagram-länk:"
+
+#: templates/admin/meta_boxes.php:51
+msgid "Twitter link:"
+msgstr "Twitter-länk:"
+
+#: templates/admin/meta_boxes.php:58
+msgid "Position"
+msgstr "Position"
+
+#: templates/admin/meta_boxes.php:60
+msgid "Latitude (in decimal form, e.g. \"60.4518\"):"
+msgstr "Latitud (i decimalform, t.ex. “60.4518”):"
+
+#: templates/admin/meta_boxes.php:66
+msgid "Longitude (in decimal form, e.g. \"22.2666\"):"
+msgstr "Longitud (i decimalform, t.ex. “22.2666”):"
+
+#: templates/shortcode/poi.php:31
+msgid "Address"
+msgstr "Adress"
+
+#: templates/shortcode/poi.php:36
+msgid "Opening hours"
+msgstr "Öppethållningstider"
+
+#: templates/shortcode/poi.php:41
+msgid "Contact information"
+msgstr "Kontaktuppgifter"
+
+#. Plugin Name of the plugin/theme
+msgid "Poiju"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A plugin for listing points of interest and information about them using a "
+"shortcode."
+msgstr ""
+"Ett tillägg som låter dig lista sevärdheter och information om dessa med "
+"hjälp av en shortcode."
+
+#. Author of the plugin/theme
+msgid "Kristian Lumme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://klart.fi/"
+msgstr ""
+
+#~ msgid "Points of interest"
+#~ msgstr "Sevärdheter"
+
+#~ msgid "Point of interest"
+#~ msgstr "Sevärdhet"
+
+#~ msgid "Show"
+#~ msgstr "Visa"
+
+#~ msgid "Read more"
+#~ msgstr "Läs mera"
+
+#~ msgid "Latitude:"
+#~ msgstr "Latitud:"
+
+#~ msgid "Longitude:"
+#~ msgstr "Longitud:"

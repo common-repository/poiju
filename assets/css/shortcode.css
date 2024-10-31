@@ -1,0 +1,20 @@
+.poiju-poi {
+    margin-bottom: 3em;
+}
+
+.poiju-poi__name {
+    position: relative;
+    font-size: 1.5em;
+}
+
+.poiju-poi__icon {
+    position: absolute;
+    top: 50%;
+    transform: translateX(-100%) translateY(-50%);
+    padding-right: 8px;
+}
+
+.poiju-poi__label {
+    padding-top: 0;
+    font-size: 1em;
+}

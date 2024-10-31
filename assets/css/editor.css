@@ -1,0 +1,9 @@
+ .poiju-icon-preview {
+    margin-left: 1ch;
+    vertical-align: middle;
+    transition: opacity 0.2s;
+ }
+
+ .poiju-icon-preview--loading {
+     opacity: 0.5;
+ }
